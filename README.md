@@ -1,7 +1,7 @@
 # React
 ## Lessons:
-  - [ ] 1. Introduction
-  - [ ] 2. Component
+  - [x] 1. Introduction
+  - [x] 2. Component
   - [ ] 3. JSX
   - [ ] 4. Props
   - [ ] 5. JSX collections
