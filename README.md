@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/mrchepel/hexlet-react.svg?branch=master)](https://travis-ci.org/mrchepel/hexlet-react)
+
 # React
 ## Lessons:
   - [x] 1. Introduction
