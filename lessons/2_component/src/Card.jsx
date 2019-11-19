@@ -2,7 +2,6 @@
 
 import React from 'react';
 
-// BEGIN (write your solution here)
 export default class Card extends React.Component {
   render() {
     return (
@@ -16,4 +15,3 @@ export default class Card extends React.Component {
     );
   }
 }
-// END
