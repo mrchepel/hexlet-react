@@ -9,7 +9,7 @@ build:
 	npm run build
 
 lint:
-	npx eslint --ext .js --ext .jsx .
+	npx eslint **/*.{js,jsx}
 
 test:
 	npm run test -s
