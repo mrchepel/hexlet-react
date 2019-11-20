@@ -3,7 +3,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-// BEGIN (write your solution here)
 export default class Card extends React.Component {
   render() {
     const { title, text } = this.props;
@@ -21,4 +20,3 @@ Card.propTypes = {
   title: PropTypes.string.isRequired,
   text: PropTypes.string.isRequired,
 };
-// END
