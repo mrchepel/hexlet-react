@@ -6,7 +6,7 @@
   - [x] 2. Component
   - [x] 3. JSX
   - [x] 4. Props
-  - [ ] 5. JSX collections
+  - [x] 5. JSX collections
   - [ ] 6. JSX HTML difference
   - [ ] 7. Classnames
   - [ ] 8. Children
