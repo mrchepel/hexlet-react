@@ -7,7 +7,7 @@
   - [x] 3. JSX
   - [x] 4. Props
   - [x] 5. JSX collections
-  - [ ] 6. JSX HTML difference
+  - [x] 6. JSX HTML difference
   - [ ] 7. Classnames
   - [ ] 8. Children
   - [ ] 9. State
